@@ -1,0 +1,70 @@
+body {
+    font-family: 'Fascinate', cursive;
+    background: #ffaa9c;
+}
+
+.header_div {
+    background: #ffffff;
+    color: #ff5454;
+}
+
+.header_div img {
+    width: 100px;
+}
+
+.main_div {
+    background: #ff7575;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label {
+    color: white;
+    background:  #ff5454;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white; 
+}
+
+#camera, #result {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div button {
+    font-size: 16px;
+    width: 310;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid white;
+}
+
+.footer_div img {
+    width: 70px;
+
+}
+
+.footer_div h4{
+background: white;
+border-radius: 20px;
+padding: 5px;
+box-shadow: 5px 5px 18px white;
+}
+
+.footer_div {
+    margin-bottom: 50px;
+
+}
+
+.copy_right_footer {
+    bottom: 0;
+    position: fixed;
+    color: #ff837a;
+    background-color: white;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
